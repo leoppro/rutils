@@ -3,5 +3,9 @@ name = "rutils"
 version = "0.0.1"
 authors = ["leoppro <i@leop.pro>"]
 repository = "https://github.com/leoppro/rutils"
+license = "Apache-2.0"
+description = """
+Utils for Rust.
+"""
 
 [dependencies]
